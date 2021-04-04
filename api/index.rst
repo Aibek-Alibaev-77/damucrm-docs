@@ -3,6 +3,7 @@
 
 .. toctree::
 	RateLimiter
+        RunParallel
 
 
    
